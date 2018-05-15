@@ -1,2 +1,11 @@
-# Project-name
-bla bla bla niečo o projekte
+Project
+
+nazov tokenu
+
+znacka
+
+decimals
+
+bonusy
+
+atd
